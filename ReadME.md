@@ -1,15 +1,10 @@
-# ML Project End-Semester Evaluation - README
+# SPOTIFY DANCEABILITY PREDICTION
 
-## Project Title
-Predicting danceability based on song parameters
 
 ## Project Description
 a. Use descriptive statistics and data visualization techniques to explore the audio features and understand their relationships.
 b. Develop and apply a machine learning model that predicts a song's danceability.
 
-## Team Members
-- Pranav M Kapparad - 211AI026
-- Sidhaarth Sredharan Murali - 211AI035
 
 ## Dependencies
 numpy
